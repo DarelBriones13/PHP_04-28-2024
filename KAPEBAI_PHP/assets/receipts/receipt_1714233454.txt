@@ -1,0 +1,15 @@
+
+        Receipt
+
+
+        Customer Name: Darel
+
+        Total Amount: ₱375.00
+
+        Tendered: ₱500.00
+
+        Change: ₱125.00
+
+        Payment Type: Cash
+
+    
